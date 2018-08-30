@@ -1,0 +1,23 @@
+*.o
+*.cgi
+
+dat
+
+# 著作権がヤバい
+mapchip
+unitchip
+terrain.txt
+
+# 権利が分からん
+libstr.h
+debugl.c
+debugl.h
+libcgi.c
+libcgi.h
+libinet.c
+libinet.h
+libpr.c
+libpr.h
+libsec.c
+libsec.h
+libstr.c
